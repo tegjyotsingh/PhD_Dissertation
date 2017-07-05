@@ -1,7 +1,8 @@
 # PhD_Dissertation
 Dynamic Adversarial Mining - Effectively Applying Machine Learning in Adversarial Non-Stationary Environments
 
-## Keywords: Streaming data; Concept drift; Adversarial learning; Machine learning; Cybersecurity 
+## Keywords
+Streaming data; Concept drift; Adversarial learning; Machine learning; Cybersecurity 
 
 ## ABSTRACT
 
