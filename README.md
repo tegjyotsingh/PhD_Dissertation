@@ -1,9 +1,9 @@
 # PhD_Dissertation
 Dynamic Adversarial Mining - Effectively Applying Machine Learning in Adversarial Non-Stationary Environments
 
-##Keywords: Streaming data; Concept drift; Adversarial learning; Machine learning; Cybersecurity 
+## Keywords: Streaming data; Concept drift; Adversarial learning; Machine learning; Cybersecurity 
 
-##ABSTRACT
+## ABSTRACT
 
 While understanding of machine learning and data mining is still in its budding stages, the engineering applications of the same has found immense acceptance and success. Cybersecurity applications such as intrusion detection systems, spam filtering, and CAPTCHA authentication, have all begun adopting machine learning as a viable technique to deal with large scale adversarial activity. However, the naive usage of machine learning in an adversarial setting is prone to reverse engineering and evasion attacks, as most of these techniques were designed primarily for a static setting. The security domain is a dynamic landscape, with an ongoing never ending arms race between the system designer and the attackers.  Any solution designed for such a domain needs to take into account an active adversary and needs to evolve over time, in the face of emerging threats. We term this as the ‘Dynamic Adversarial Mining’ problem, and the presented work provides the foundation for this new interdisciplinary area of research, at the crossroads of Machine Learning, Cybersecurity, and Streaming Data Mining.
 
